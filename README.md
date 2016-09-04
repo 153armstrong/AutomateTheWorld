@@ -13,4 +13,5 @@ Just open the gmail login page and execute the program.. :D
 This is just for fun only. And many a times it freaks people out as well. The program essentially prints out n times a string on a messenger/chatbox/Whatsapp(on Bluestacks). You name it, this method works in all! <br>
 Evil.. Muwahahaa <br>
 ![alt](http://i.imgur.com/DOMWNQy.png)
+<br>
 The implementation of the program on Google Hangouts
